@@ -3,10 +3,14 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
-  background-image: url(https://cdn.glitch.com/a2ff78c5-f6ef-4878-b4e0-0afd84d24ccb%2FDbemRzwVwAA9zjH.jpg);
+  /*background-image: url(https://cdn.glitch.com/a2ff78c5-f6ef-4878-b4e0-0afd84d24ccb%2FDbemRzwVwAA9zjH.jpg);*/
 }
 
 h1 {
   font-style: italic;
   color: #373fff;
+}
+
+img {
+  max-width: 100%;
 }
