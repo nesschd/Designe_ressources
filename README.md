@@ -11,19 +11,12 @@ Find out more [about Glitch](https://glitch.com/about).
 Your Project
 ------------
 
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
 ### ← assets
 
 Drag in `assets`, like images or music, to add them to your project
 
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
 
-\ ゜o゜)ノ
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
