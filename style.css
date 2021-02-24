@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.content{
+    margin: 20px;
+    font-family: 'Merriweather', serif;
+}
+.page-title{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+}
+.ImgArticle{
+    height:350px;
+    margin-left: 20px;
+}
+.source{
+    width: 500px;
+    margin-left: 20px;
+}
+.imageWithContent{
+    display: inline-flex;
+}
+.twitter-tweet{
+    margin-left: 400px;
+}
+.ytvideo{
+    margin-left: 10px;
+}
